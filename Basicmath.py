@@ -6,3 +6,6 @@ addition = number + number:
     print("Addition ",addition)
 subtraction = number - 1000:
     print("Subtraction", su subtraction)
+
+
+print("OK")
